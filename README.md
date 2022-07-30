@@ -14,7 +14,7 @@
 
 3-Apply the filter in both spatial and frequency domains.
 
-4-You are required to apply four different filters.
+4-You are can apply four different filters.
 
 5-Implement histogram equalization without libraries.
 
